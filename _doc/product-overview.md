@@ -37,8 +37,9 @@ first. Contacts and the interaction timeline exist to feed it.
   follow-up impossible to miss.
 - **Fast to log.** Capturing an interaction must take seconds, or it won't happen.
 
-## Tone & brand _(assumption — to confirm)_
+## Tone & brand
 Calm, clean, confident. Productivity-tool aesthetic — uncluttered, fast, trustworthy.
+Visual identity: a deep-blue-to-teal palette with a simple, iconic pipeline/contact mark.
 
 ## Out of scope (for now)
 Marketing automation, email sending/sequencing, invoicing, and complex reporting.
