@@ -9,10 +9,11 @@ things well: store **contacts**, keep a running **log of interactions** with eac
 one, and show the **deal pipeline** at a glance. Deliberately simple — no bloat,
 no enterprise configuration.
 
-## Who it's for _(assumption — to confirm)_
-Solo sellers and small teams who sell through relationships: freelancers,
-consultants, agency owners, and solo founders. People who currently track leads
-in their head, a spreadsheet, or scattered notes and lose follow-ups as a result.
+## Who it's for
+A **single solo operator** running their own sales and relationships —
+a freelancer, consultant, agency owner, or solo founder. Strictly single-user:
+no team seats, no collaboration. Someone who currently tracks leads in their head,
+a spreadsheet, or scattered notes and loses follow-ups as a result.
 
 ## The problem it solves
 Deals slip silently. A warm lead goes cold because a follow-up was forgotten, and
