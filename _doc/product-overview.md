@@ -1,4 +1,4 @@
-# Product Overview — Simple CRM
+# Product Overview — MyCRM
 
 > Single source of truth for the product. Some details below are early working
 > assumptions (marked _assumption_) and will firm up as scoping is confirmed.
