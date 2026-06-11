@@ -20,6 +20,9 @@ there is no single place that shows what is stalling. Recovering even one deal a
 month typically pays for the system many times over.
 
 ## Core capabilities (MVP)
+**Day-one hero:** the **pipeline board** — the one thing the product must nail
+first. Contacts and the interaction timeline exist to feed it.
+
 1. **Contacts** — a clean directory of people and companies with the essentials.
 2. **Interaction timeline** — log calls, emails, and meetings per contact so the
    full history of a relationship is one click away.
