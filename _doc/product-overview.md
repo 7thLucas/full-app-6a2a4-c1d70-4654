@@ -27,8 +27,10 @@ first. Contacts and the interaction timeline exist to feed it.
 1. **Contacts** — a clean directory of people and companies with the essentials.
 2. **Interaction timeline** — log calls, emails, and meetings per contact so the
    full history of a relationship is one click away.
-3. **Pipeline board** — deals as cards that move across stages (e.g. Lead →
-   Contacted → Proposal → Won/Lost) so nothing stalls unseen.
+3. **Pipeline board** — deals as cards that move across stages (Lead →
+   Contacted → Proposal → Won/Lost) so nothing stalls unseen. Each deal carries
+   a value; the board shows per-stage counts and total value-in-play. Stages are
+   owner-configurable.
 
 ## Strategic principles
 - **Stay simple.** Every feature must earn its place against "is this still a
