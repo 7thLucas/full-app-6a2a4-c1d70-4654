@@ -1,0 +1,32 @@
+<style>
+  .mode-portrait .sl-grid { flex-direction: column; }
+  .mode-portrait .sl-visual { width: 100%; height: 38%; }
+  .mode-landscape .sl-visual { width: 42%; height: 100%; }
+</style>
+<section class="w-full h-full overflow-auto bg-white">
+  <div class="sl-grid flex w-full h-full">
+    <div class="flex-1 flex flex-col justify-between p-12">
+      <div class="flex items-center gap-2 text-indigo-700 font-semibold tracking-wide text-sm">
+        <span class="inline-block w-2 h-2 rounded-full bg-indigo-600"></span>
+        SIMPLE CRM
+      </div>
+      <div>
+        <h1 class="text-slate-900 font-extrabold leading-tight" style="font-size:3.2rem">
+          Never let a warm<br>lead go cold.
+        </h1>
+        <p class="mt-5 text-slate-600 text-xl max-w-md leading-relaxed">
+          Contacts, every interaction, and your whole pipeline — in one calm,
+          uncluttered place built for people who sell through relationships.
+        </p>
+      </div>
+      <div class="text-slate-500 text-sm">
+        <data-attribution />
+      </div>
+    </div>
+    <div class="sl-visual relative overflow-hidden">
+      <img class="absolute inset-0 w-full h-full object-cover"
+        src="https://api.qb-deck.quantumbyte.ai/common/image-generation?prompt=calm%20minimal%20workspace%20laptop%20with%20a%20clean%20CRM%20pipeline%20board%2C%20soft%20natural%20light%2C%20indigo%20accents%2C%20premium%20editorial%20product%20photography"
+        alt="Relationship-first selling" />
+    </div>
+  </div>
+</section>
